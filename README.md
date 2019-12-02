@@ -3,7 +3,8 @@ Repo: https://github.com/elozano2/Andromeda-2050
 
 ### Andromeda 2050
 #### Eduardo Lozano, Manoj Khatri  
-[GroupPic](https://github.com/elozano2/Andromeda-2050)  
+
+![GroupPic](p2.20.png.png)  
 
 <br/><br/>  
 
@@ -18,6 +19,7 @@ If the player runs out of lives, they lose the game and must start over.
 
 Sketch
 ===  
+![Sketch](P2.sketch.20.png)  
 
 Implementation and Plan to Move Forward
 ===  
