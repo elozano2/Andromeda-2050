@@ -33,6 +33,11 @@ Players can play the game and attempt to get a high score.
 * Powerups
 * Game polishing and bug fixes  
 
+#### PLEASE READ  
+To run the game, please click on the repo link on the top of this presentation.  
+Download a zip file of the repo and export the files to your computer.  
+Run the "Test.exe" file and enjoy the game!
+
 #### Hypothesis  
 Since the game is simplistic, players will have and easy time picking up the game and understanding  
 what the objective is.
