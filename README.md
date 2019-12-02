@@ -1,7 +1,7 @@
 Presentation: https://elozano2.github.io/Andromeda-2050/  
 Repo: https://github.com/elozano2/Andromeda-2050
 
-### Andromeda 2050
+## Andromeda 2050
 #### Eduardo Lozano, Manoj Khatri  
 
 ![GroupPic](p2.20.png.png)  
@@ -9,7 +9,7 @@ Repo: https://github.com/elozano2/Andromeda-2050
 <br/><br/>  
 
 Introduction
----
+===
 
 Andromeda 2050 is a 2D space shooter where the player is tasked to shoot  
 enemy ships while avoiding various hazards, such as enemy lasers.  
