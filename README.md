@@ -3,7 +3,7 @@ Repo: https://github.com/elozano2/Andromeda-2050
 
 ### Andromeda 2050
 #### Eduardo Lozano, Manoj Khatri  
-[GroupPic](p2.20.png.png)  
+[GroupPic](https://github.com/elozano2/Andromeda-2050)  
 
 <br/><br/>  
 
