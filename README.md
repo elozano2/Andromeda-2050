@@ -2,7 +2,8 @@ Presentation: https://elozano2.github.io/Andromeda-2050/
 Repo: https://github.com/elozano2/Andromeda-2050
 
 ### Andromeda 2050
-#### Eduardo Lozano, Manoj Khatri
+#### Eduardo Lozano, Manoj Khatri  
+[GroupPic](p2.20.png.png)  
 
 <br/><br/>  
 
