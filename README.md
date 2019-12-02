@@ -34,4 +34,5 @@ Players can play the game and attempt to get a high score.
 * Game polishing and bug fixes  
 
 #### Hypothesis  
-Since the game is simplistic, players will have and easy time picking up and playing the game.
+Since the game is simplistic, players will have and easy time picking up the game and understanding  
+what the objective is.
