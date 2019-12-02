@@ -1,5 +1,6 @@
 [Presentation](https://elozano2.github.io/Andromeda-2050/)  
-[Repo](https://github.com/elozano2/Andromeda-2050)
+[Repo](https://github.com/elozano2/Andromeda-2050)  
+[Demo](https://elozano2.github.io/Andromeda2050Game/)
 
 ## Andromeda 2050
 #### Eduardo Lozano, Manoj Khatri  
@@ -31,12 +32,16 @@ Players can play the game and attempt to get a high score.
 * Levels (Player must reach end of level to win)
 * Different enemy ship types
 * Powerups
-* Game polishing and bug fixes  
+* Game polishing and bug fixes
 
-#### PLEASE READ  
-To run the game, please click on the repo link on the top of this presentation.  
-Download a zip file of the repo and export the files to your computer.  
-Run the "Test.exe" file and enjoy the game!
+#### How to play game  
+You can play the game by clicking on the demo link at the top of this page.  
+
+#### Controls:  
+W to move forward  
+A to move left  
+S to move back  
+D to move right  
 
 #### Hypothesis  
 Since the game is simplistic, players will have and easy time picking up the game and understanding  
