@@ -1,5 +1,5 @@
-[Presentation](https://elozano2.github.io/Andromeda-2050/)  
-[Repo](https://github.com/elozano2/Andromeda-2050)  
+[Presentation](https://elozano2.github.io/P2.20/)  
+[Repo](https://github.com/elozano2/P2.20)  
 [Demo](https://elozano2.github.io/Andromeda2050Game/) (Open in new tab)
 
 ## Andromeda 2050
